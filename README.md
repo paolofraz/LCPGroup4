@@ -1,4 +1,5 @@
 # Final Project
+# MAGIC (Major Atmospheric Gamma Imaging Cherenkov Telescopes) Data Analysis.
 
 In this branch you find all the necessary to complete your final project.
 
@@ -8,8 +9,10 @@ Students are supposed to work together to produce a short report on the assigned
 
 The following files are there for reference:
 
-* `Members.txt` the list of students belonging to the group
+* `Members.txt` the list of students belonging to the group;
 
-* `CloudInstructions.md` It contains the instruction to set-up and utilise the [CloudVeneto](http://cloudveneto.it/) computing resources
+* `CloudInstructions.md` It contains the instruction to set-up and utilise the [CloudVeneto](http://cloudveneto.it/) computing resources;
 
-* `Project.ipynb` the actual description of the assigned project
+* `Project.ipynb` the actual description of the assigned project;
+
+* `LCP_Project_4.ipynb` contains the final report.
